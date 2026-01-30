@@ -5,12 +5,15 @@ Java初学者が「アプリ開発をしながら学ぶ」ための学習支援G
 
 ![サムネイル](./demo/thumbnail.png)
 
-- 📄 1枚資料（PDF）: (./docs/overview_slide.pdf)
-- 📹 デモ動画（2分30秒）: (https://drive.google.com/file/d/1DaqQ3ykRQGVxcSAFtQNmtKkNsLCi4Zib/view?usp=sharing)
+📄 **1枚で分かる概要スライド（PDF）**  
+👉 [PDFを開く](./docs/overview_slide.pdf)
+
+🎬 **デモ動画（2分30秒 / Google Drive）**  
+👉 [デモ動画を見る](https://drive.google.com/file/d/1DaqQ3ykRQGVxcSAFtQNmtKkNsLCi4Zib/view?usp=sharing)
 
 ---
 
-## README 1行要約（コピペ用）
+## README 1行要約
 **チャットで Day 学習を進めると、設計書・スケジュール・日次報告書が Drive に自動生成され、別チャットでも学習を再開できる Java 学習支援GPTs。**
 
 ---
@@ -100,7 +103,7 @@ Java初学者が「アプリ開発をしながら学ぶ」ための学習支援G
 ## 📚 ドキュメント
 - [📄 機能仕様書（SPECIFICATION.md）](./docs/SPECIFICATION.md)
 - [🏗 設計書（ARCHITECTURE.md）](./docs/ARCHITECTURE.md)
-- 1枚資料（PDF）: (./docs/overview_slide.pdf)
+- [1枚資料（PDF）](./docs/overview_slide.pdf)
 
 ---
 
