@@ -5,8 +5,8 @@ Java初学者が「アプリ開発をしながら学ぶ」ための学習支援G
 
 ![サムネイル](./demo/thumbnail.png)
 
-- 📄 1枚資料（PDF）: `./docs/one-slide.pdf`
-- 📹 デモ動画（2分30秒）: `./demo/demo-video.mp4`
+- 📄 1枚資料（PDF）: (`./docs/overview_slide.pdf`)
+- 📹 デモ動画（2分30秒）: (https://drive.google.com/file/d/1DaqQ3ykRQGVxcSAFtQNmtKkNsLCi4Zib/view?usp=sharing)
 
 ---
 
@@ -87,22 +87,20 @@ Java初学者が「アプリ開発をしながら学ぶ」ための学習支援G
 ## 📸 スクリーンショット
 
 ### 1) トップ（メニュー）
-![トップ](./docs/screenshots/screenshot1.png)
+![トップ](./docs/screenshots/top.png)
 
 ### 2) Day提示（学習コンテンツ）
-![Day提示](./docs/screenshots/screenshot2.png)
+![Day提示](./docs/screenshots/day_detail.png)
 
 ### 3) Drive上に成果物が生成される
-![Drive成果物](./docs/screenshots/screenshot3.png)
-
-> ※このリポジトリでは画像ファイル名を `screenshot1.png` のように固定し、READMEのリンク切れを防ぎます。
+![Drive成果物](./docs/screenshots/drive_output.png)
 
 ---
 
 ## 📚 ドキュメント
-- [📄 機能仕様書（SPECIFICATION.md）](./SPECIFICATION.md)
-- [🏗 設計書（ARCHITECTURE.md）](./ARCHITECTURE.md)
-- 1枚資料（PDF）: `./docs/one-slide.pdf`
+- [📄 機能仕様書（SPECIFICATION.md）](./docs/SPECIFICATION.md)
+- [🏗 設計書（ARCHITECTURE.md）](./docs/ARCHITECTURE.md)
+- 1枚資料（PDF）: (`./docs/overview_slide.pdf`)
 
 ---
 
