@@ -5,7 +5,7 @@ Java初学者が「アプリ開発をしながら学ぶ」ための学習支援G
 
 ![サムネイル](./demo/thumbnail.png)
 
-- 📄 1枚資料（PDF）: (`./docs/overview_slide.pdf`)
+- 📄 1枚資料（PDF）: (./docs/overview_slide.pdf)
 - 📹 デモ動画（2分30秒）: (https://drive.google.com/file/d/1DaqQ3ykRQGVxcSAFtQNmtKkNsLCi4Zib/view?usp=sharing)
 
 ---
@@ -100,7 +100,7 @@ Java初学者が「アプリ開発をしながら学ぶ」ための学習支援G
 ## 📚 ドキュメント
 - [📄 機能仕様書（SPECIFICATION.md）](./docs/SPECIFICATION.md)
 - [🏗 設計書（ARCHITECTURE.md）](./docs/ARCHITECTURE.md)
-- 1枚資料（PDF）: (`./docs/overview_slide.pdf`)
+- 1枚資料（PDF）: (./docs/overview_slide.pdf)
 
 ---
 
