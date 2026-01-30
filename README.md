@@ -103,7 +103,7 @@ Java初学者が「アプリ開発をしながら学ぶ」ための学習支援G
 ## 📚 ドキュメント
 - [📄 機能仕様書（SPECIFICATION.md）](./docs/SPECIFICATION.md)
 - [🏗 設計書（ARCHITECTURE.md）](./docs/ARCHITECTURE.md)
-- [1枚資料（PDF）](./docs/overview_slide.pdf)
+- [📄 1枚資料（PDF）](./docs/overview_slide.pdf)
 
 ---
 
